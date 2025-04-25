@@ -1,0 +1,6 @@
+sounddevice
+scipy
+numpy
+librosa
+tensorflow
+scikit-learn
