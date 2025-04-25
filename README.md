@@ -48,5 +48,16 @@ L’objectif est d’expérimenter la détection multi-modale d’émotions dans
 
 ---
 
-## 📂 Structure du Projet
+## 🛠️ Installation & Lancement
+
+```bash
+# 1. Cloner le dépôt
+git clone https://github.com/votreNomUtilisateur/voice_emotion_ai.git
+cd voice_emotion_ai
+
+# 2. Installer les dépendances
+pip install -r requirements.txt
+
+# 3. Lancer l'application
+python -m app.ui
 
