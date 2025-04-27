@@ -15,7 +15,12 @@
 - de la **voix** (enregistrement audio + classification émotionnelle),
 - du **visage** (caméra en direct avec DeepFace).
 
-L’objectif est d’expérimenter la détection multi-modale d’émotions dans un environnement interactif avec une interface moderne.
+L'objectif est d'expérimenter la **détection multi-modale** des émotions (voix + visage) dans un environnement interactif, avec une interface utilisateur moderne et intuitive.
+
+L’application intègre à la fois :
+
+- L'**analyse vocale**, grâce à un modèle personnalisé entraîné sur **RAVDESS** (Ryerson Audio-Visual Database of Emotional Speech and Song),
+- L'**analyse faciale** en temps réel, grâce à **DeepFace** pour la reconnaissance des émotions.
 
 ---
 
