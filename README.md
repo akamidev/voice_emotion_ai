@@ -31,7 +31,6 @@ L’objectif est d’expérimenter la détection multi-modale d’émotions dans
 - 📸 Détection d’émotions faciales avec DeepFace
 - 📊 Graphique matplotlib des probabilités
 - ♻️ Bouton de réinitialisation du graphique
-- 🇫🇷 Traduction des émotions détectées (avec emoji)
 - 💾 Sauvegarde automatique des prédictions dans un fichier CSV
 
 ---
