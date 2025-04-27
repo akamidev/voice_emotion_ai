@@ -21,7 +21,7 @@ L’objectif est d’expérimenter la détection multi-modale d’émotions dans
 
 ## 🖥️ Démonstration de l’application
 
-<img src="./Emotion vocal et facial.png" alt="Détection Émotion Vocale et Faciale" width="500"/
+<img src="./Emotion vocal et facial.png" alt="Détection Émotion Vocale et Faciale" width="500"/>
 
 ---
 
